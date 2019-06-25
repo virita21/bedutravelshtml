@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+
+
+header nav ul li {
+    width: 40%;
+    display: inline-block;
+}
+
+section {
+    text-align: center;
+    background-image: url("./img/playa.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    
+
+}
+
+section h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 180px;
+
+}
+
+
+section h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding-bottom: 1px;
+
+}
+
+footer {
+    position: fixed;
+    background-color: black;
+    bottom: 0px;
+    width: 100%;
+}
+
+#logobedu {
+
+    width:70px;
+    
+}
+
+
+#redessociales {
+
+    width: 20px;
+}
